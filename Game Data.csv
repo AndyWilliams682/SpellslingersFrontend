@@ -1,0 +1,89 @@
+All Seasons,Game,Date,Location,Turn Count,"Went
+First",Deck,Position,"Went
+Second",Deck,Position,"Went
+Third",Deck,Position,"Went
+Last",Deck,Position
+1,1,2/18/22,Online,8,Spencer,Jodah,2,Cameron,Elves,1,Nick,Wizard School Annex,4,Griffin,Juri,2
+1,2,2/18/22,Online,11,Griffin,Flashback,2,Cameron,Dice,1,Nick,Wizard School Annex,4,Spencer,Cycling,3
+1,3,2/18/22,Online,7,Spencer,Elsha,1,Nick,Wizard School Annex,2,Cameron,Why Not A Monsters?,3,Griffin,Raid Bombardment,3
+1,4,2/25/22,Online,13,Griffin,Anje,4,Cameron,MECH DECH,1,Spencer,Rogues,3,Nick,Wizard School Annex,2
+1,5,2/25/22,Online,14,Griffin,Galea,3,Nick,Wizard School Annex,4,Cameron,MECH DECH,1,Spencer,Return to Monk,2
+1,6,2/25/22,Online,13,Cameron,MECH DECH,2,Nick,Wizard School Annex,4,Griffin,Raid Bombardment,3,Spencer,Silverquill,1
+1,7,3/1/2022,Online,10,Griffin,Zada,1,Nick,Wizard School Annex,2,Andy,Anowon Pre-Con,2,Cameron,Dice,4
+1,8,3/1/22,Online,9,Griffin,DA BEARS,2,Cameron,The Lonely Mountain,1,Nick,Wizard School Annex,3,Andy,Anowon Pre-Con,4
+1,9,3/5/22,Online,9,Cameron,Turtles,2,Griffin,Juri,1,Spencer,Prosper,2,Andy,Anowon Pre-Con,4
+1,10,3/13/22,Online,11,Nick,Codie Approach,3,Cameron,MECH DECH,1,Griffin,Dina Budget,2,Spencer,Jodah,4
+1,11,3/13/22,Online,8,Spencer,Cycling,4,Cameron,Why Not A Monsters?,4,Griffin,Galea,2,Nick,Codie Approach,1
+1,12,3/13/22,Online,10,Spencer,Rogues,3,Griffin,Galea,1,Cameron,Turtles,4,Nick,Codie Approach,2
+1,13,3/18/22,Online,11,Cameron,MECH DECH,1,Griffin,Flashback,2,Nick,Codie Approach,3,,,
+1,14,3/18/22,Online,10,Spencer,Return to Monk,3,Nick,Codie Approach,1,Griffin,Raid Bombardment,2,Cameron,Elves,4
+1,15,3/18/22,Online,7,Spencer,Rogues,2,Cameron,Vrondis,3,Griffin,Anje,1,Nick,Codie Approach,4
+1,16,3/18/22,Online,7,Nick,Codie Approach,3,Griffin,Zada,2,Spencer,Jodah,1,Cameron,The Lonely Mountain,4
+1,17,3/24/22,Online,6,Nick,Codie Approach,3,Griffin,Juri,1,Spencer,Cycling,2,,,
+1,18,3/25/22,Online,15,Griffin,Galea,3,Nick,Kykar Tap Tribal,1,Spencer,Return to Monk,3,Cameron,Dice,4
+1,19,3/25/22,Online,14,Nick,Boros Landfall,2,Griffin,DA BEARS,1,Spencer,Jodah,4,Cameron,MECH DECH,3
+1,20,3/25/22,Online,7,Cameron,Turtles,4,Spencer,All Brakes No Gas,4,Nick,Codie Approach,4,Griffin,Zada,1
+2,21,4/1/22,In Person,10,Scott,Zombies,1,Nick,Codie Approach,3,Cameron,FAKE ELEPHANT,2,Griffin,Raid Bombardment,3
+2,22,4/1/22,In Person,11,Nick,Codie Approach,1,Cameron,FAKE ELEPHANT,3,Griffin,Raid Bombardment,2,Scott,Kalamax,4
+2,23,4/1/22,In Person,12,Cameron,FAKE ELEPHANT,1,Griffin,Raid Bombardment,4,Scott,Zombies,3,Nick,Boros Landfall,2
+2,24,4/8/22,Online,9,Cameron,FAKE ELEPHANT,3,Nick,Galazeth Approach,1,Griffin,Anje,2,,,
+2,25,4/8/22,Online,6,Cameron,FAKE ELEPHANT,1,Griffin,Galea,2,Nick,Galazeth Approach,2,,,
+2,26,4/8/22,Online,7,Griffin,Zada,2,Cameron,MECH DECH,3,Nick,Galazeth Approach,1,,,
+2,27,4/8/22,Online,8,Griffin,Zada,2,Nick,Galazeth Approach,1,Cameron,Dice,3,,,
+2,28,4/8/22,Online,7,Cameron,Turtles,2,Griffin,Flashback,1,Nick,Selvala,3,,,
+2,29,4/15/22,Online,8,Spencer,Prismari,4,Cameron,FAKE ELEPHANT,3,Nick,Galazeth Approach,2,Griffin,Dina Budget,1
+2,30,4/15/22,Online,9,Cameron,Why Not A Monsters?,4,Spencer,All Brakes No Gas,2,Griffin,Juri,1,Nick,Galazeth Approach,3
+2,31,4/15/22,Online,9,Nick,Galazeth Approach,2,Spencer,Return to Monk,4,Cameron,The Lonely Mountain,3,Griffin,DA BEARS,1
+2,32,4/23/22,Online,8,Griffin,Galea,2,Nick,Galazeth Approach,1,Cameron,Angry Combo,3,,,
+2,33,4/23/22,Online,8,Nick,Varina,3,Griffin,Galea,1,Cameron,Elves,2,,,
+2,34,4/23/22,Online,8,Nick,Varina,1,Cameron,The Lonely Mountain,3,Griffin,Raid Bombardment,2,,,
+2,35,4/23/22,Online,6,Griffin,Zada,1,Cameron,MECH DECH,3,Nick,Varina,3,,,
+2,35,4/29/22,Online,12,Griffin,Juri,3,Nick,Galazeth Approach,1,Spencer,Fæ€π%√™,2,Cameron,MECH DECH,4
+2,36,4/29/22,Online,9,Nick,Galazeth Approach,1,Griffin,Anje,4,Cameron,Why Not A Monsters?,3,Spencer,Fæ€π%√™,2
+2,38,5/6/22,In Person,9,Griffin,Anje,1,Scott,Zombies,4,Cameron,Phoenix,4,Nick,Wizard School Annex,2
+2,39,5/6/22,In Person,7,Scott,Zombies,4,Cameron,FAKE ELEPHANT,4,Nick,Wizard School Annex,4,Griffin,Raid Bombardment,1
+2,40,5/6/22,In Person,7,Griffin,Anje,2,Scott,Kalamax,4,Cameron,FAKE ELEPHANT,1,Nick,Galazeth Approach,4
+2,41,5/13/22,Online,10,Nick,Kraken Man,3,Cameron,Phoenix,1,Spencer,Fæ€π%√™,2,,,
+2,42,5/13/22,Online,7,Spencer,Fæ€π%√™,3,Cameron,FAKE ELEPHANT,1,Nick,Kraken Man,2,,,
+2,43,5/13/22,Online,12,Spencer,Fæ€π%√™,2,Cameron,Phoenix,1,Nick,Galazeth Approach,3,,,
+2,44,5/20/22,In Person,11,Griffin,Najeela,3,Cameron,FAKE ELEPHANT,1,Spencer,Elsha,4,Nick,Wet Jelly Bean,3
+2,45,5/20/22,In Person,9,Spencer,Fæ€π%√™,2,Nick,Wet Jelly Bean,3,Griffin,Najeela,1,Cameron,Dice,4
+,45.5,5/20/22,In Person,7,Spencer,Raid Bombardment ,3,Nick,MECH DECK,?,Griffin,Jodah ,?,Cameron,Codie,4
+2,46,5/27/22,Online,9,Griffin,Targ Nar,1,Nick,Wet Jelly Bean,3,Spencer,Nuclear Carddraw,2,,,
+2,47,5/27/22,Online,9,Nick,Wet Jelly Bean,1,Griffin,Galea,2,Spencer,Nuclear Carddraw,3,,,
+2,48,5/27/22,Online,8,Cameron,Phoenix,4,Spencer,Nuclear Carddraw,1,Griffin,Targ Nar,2,Nick,Wet Jelly Bean,3
+2,49,5/29/22,Online,9,Cameron,Angry Combo,4,Griffin,Flashback,4,Nick,Wet Jelly Bean,1,Spencer,Nuclear Carddraw,2
+2,50,5/29/22,Online,9,Spencer,Nuclear Carddraw,4,Griffin,Flashback,1,Nick,Codie Approach,4,Cameron,Phoenix,4
+2,51,6/2/22,Online,9,Cameron,Turtles,2,Nick,Wizard School Annex,1,Arjun,Perrie The Platypus!,4,Griffin,DA BEARS,3
+2,52,6/2/22,Online,7,Griffin,Zada,1,Spencer,Nuclear Carddraw,4,Arjun,Perrie The Platypus!,4,Nick,Wizard School Annex,4
+2,53,6/2/22,Online,11,Griffin,Stupid Sexy Vampires,1,Cameron,Elves,2,Spencer,Fæ€π%√™,3,Nick,Wizard School Annex,4
+2,54,5/22/22,Online,8,Spencer,Prismari,4,Griffin,Stupid Sexy Vampires,3,Cameron,Phoenix,1,Nick,Galazeth Approach,2
+2,55,5/22/22,Online,8,Nick,Galazeth Approach,3,Cameron,The Lonely Mountain,4,Griffin,Stupid Sexy Vampires,1,Spencer,Return to Monk,2
+2,56,6/8/22,Online,11,Nick,Boros Landfall,2,Griffin,Kresh,4,Arjun,ENHcantrips,3,Andy,Stopwatch Tribal,1
+2,57,6/8/22,Online,9,Griffin,Kresh,3,Andy,Liesa Pact,4,Cameron,Phoenix,1,Arjun,ENHcantrips,2
+2,58,6/10/22,Online,9,Nick,Boros Landfall,3,Cameron,Turtles,3,Griffin,Stupid Sexy Vampires,1,Spencer,Nuclear Carddraw,4
+2,59,6/10/22,Online,9,Nick,Boros Landfall,2,Griffin,Kresh,4,Spencer,Wizards of the Coast,3,Cameron,Why Not A Monsters?,1
+2,60,6/17/22,Online,12,Arjun,Gundamnation,2,Cameron,Life of the Party,3,Nick,Wet Jelly Bean,1,Griffin,Delina,4
+2,61,6/17/22,Online,9,Spencer,Fæ€π%√™,3,Griffin,UNION UNION UNION,1,Nick,Wizard School Annex,4,Cameron,Life of the Party,3
+2,62,6/19/22,Online,10,Griffin,Delina,4,Arjun,Dra-goads-tea din tei,1,Cameron,FAKE ELEPHANT,3,Spencer,Adventure Time,2
+2,63,6/19/22,Online,9,Scott,Radha,4,Spencer,ZA WARUDO,3,Cameron,FAKE ELEPHANT,3,Griffin,Kresh,1
+2,64,6/25/22,In Person,14,Naomi,Egg Slut,3,Spencer,Elminster,1,Griffin,Delina,4,Nick,Two Dragons,3
+2,65,6/25/22,In Person,8,Naomi,Krackass,4,Spencer,ZA WARUDO,4,Griffin,Stupid Sexy Vampires,1,Nick,Two Dragons,4
+2,66,6/25/22,In Person,8,Nick,Two Dragons,1,Naomi,Krackass,2,Spencer,Dies To Removal,4,Griffin,Galea,4
+2,67,6/25/22,Online,8,Arjun,Watching Waiting Kamiz-erating,4,Andy,Granddaddy Crab,3,Cameron,Dice,3,Griffin,Delina,1
+2,68,6/25/22,Online,10,Andy,Granddaddy Crab,2,Griffin,Galea,3,Arjun,Watching Waiting Kamiz-erating,1,Spencer,Dies To Removal,4
+3,69,7/2/22,Online,6,Spencer,Dies To Removal,3,Griffin,Raid Bombardment,3,Cameron,Phoenix,4,Nick,Two Dragons,1
+3,70,7/2/22,Online,7,Nick,Two Dragons,4,Cameron,MECH DECH,4,Spencer,Dies To Removal,4,Griffin,Flashback,1
+3,71,7/2/22,Online,6,Nick,Two Dragons,1,Griffin,Delina,4,Cameron,Dice,4,Spencer,Dies To Removal,4
+3,72,7/2/22,Online,5,Griffin,Delina,1,Spencer,Dies To Removal,4,Nick,Two Dragons,4,Cameron,Dice,4
+3,73,7/2/22,Online,9,Cameron,Life of the Party,1,Griffin,Galea,3,Spencer,Dies To Removal,2,Nick,Selvala,4
+3,74,7/8/22,Online,7,Griffin,Raid Bombardment,4,Nick,Two Dragons,3,Arjun,ENHcantrips,1,Cameron,FAKE ELEPHANT,3
+3,75,7/8/22,Online,8,Nick,Two Dragons,2,Arjun,Watching Waiting Kamiz-erating,4,Griffin,Targ Nar,4,Cameron,FAKE ELEPHANT,1
+3,76,7/8/22,Online,4,Nick,Two Dragons,1,Griffin,UNION UNION UNION,4,Arjun,Dra-goads-tea din tei,4,Spencer,Dies To Removal,4
+3,77,7/8/22,Online,7,Spencer,Dies To Removal,3,Nick,Two Dragons,1,Griffin,UNION UNION UNION,3,,,
+3,78,7/8/22,Online,8,Spencer,Elminster,3,Griffin,UNION UNION UNION,3,Nick,Two Dragons,1,,,
+3,79,7/9/22,Online,9,Cameron,The Lonely Mountain,3,Spencer,Elminster,2,Arjun,Watching Waiting Kamiz-erating,4,Griffin,Anje,1
+3,80,7/15/22,Online,10,Griffin,Dina Budget,2,Arjun,Caprese Covfefe,1,Cameron,Dwarves in Cars,3,Spencer,Melting Paper,4
+3,81,7/15/22,Online,11,Arjun,Ghost Busting,1,Spencer,Forged in Stone,2,Cameron,Phoenix,3,Griffin,DA BEARS,4
+3,82,7/18/22,Online,9,Nick,Mono Blue Ramp,1,Cameron,Dice,3,Arjun,Perrie The Platypus!,4,Griffin,Raid Bombardment,3
+3,83,7/18/22,Online,7,Cameron,Vrondis,3,Nick,Mono Blue Ramp,4,Arjun,Exile-o-phone,1,Griffin,Juri,2
